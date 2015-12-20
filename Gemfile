@@ -13,7 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 3.5', '>= 3.5.3'
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
-gem 'aws-sdk', '~> 2.2', '>= 2.2.7'
+gem 'aws-sdk','< 2.0'
 gem 'jquery-turbolinks', '~> 2.1'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'will_paginate', '~> 3.0', '>= 3.0.7'
