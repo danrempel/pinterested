@@ -16,6 +16,8 @@ gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'aws-sdk', '~> 2.2', '>= 2.2.7'
 gem 'jquery-turbolinks', '~> 2.1'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'will_paginate', '~> 3.0', '>= 3.0.7'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
